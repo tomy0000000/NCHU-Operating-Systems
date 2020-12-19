@@ -9,8 +9,10 @@
 
 ## Laboratory Session
 
-| #    | Title              |
-| ---- | ------------------ |
-| 2    | Basic Shell Script |
-| 3    | Set UID            |
+| #    | Title                                     |
+| ---- | ----------------------------------------- |
+| 2    | Basic Shell Script                        |
+| 3    | SetUID                                    |
+| 5    | Kernel Module                             |
+| 6    | Process Control                           |
 
