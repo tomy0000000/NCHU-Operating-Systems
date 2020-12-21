@@ -15,4 +15,6 @@
 | 3    | SetUID                                    |
 | 5    | Kernel Module                             |
 | 6    | Process Control                           |
+| 7    | Message Queue & Shared Memory             |
+| 8    | UDP Socket Programming                    |
 
