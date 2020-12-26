@@ -17,4 +17,6 @@
 | 6    | Process Control                           |
 | 7    | Message Queue & Shared Memory             |
 | 8    | UDP Socket Programming                    |
+| 9    | Thread Management                         |
+| 10   | Thread Local Storage & Cancellation Point |
 
