@@ -19,4 +19,6 @@
 | 8    | UDP Socket Programming                    |
 | 9    | Thread Management                         |
 | 10   | Thread Local Storage & Cancellation Point |
+| 11   | Signals                                   |
+| 12   | Semaphores                                |
 
