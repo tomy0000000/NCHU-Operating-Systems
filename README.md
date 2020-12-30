@@ -21,4 +21,6 @@
 | 10   | Thread Local Storage & Cancellation Point |
 | 11   | Signals                                   |
 | 12   | Semaphores                                |
+| 13   | Mutex & Condition Variable                |
+| 14   | Java Monitor                              |
 
