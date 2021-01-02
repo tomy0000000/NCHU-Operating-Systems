@@ -23,4 +23,7 @@
 | 12   | Semaphores                                |
 | 13   | Mutex & Condition Variable                |
 | 14   | Java Monitor                              |
+| 15   | Static & Dynamic Library                  |
+| 16   | Paging                                    |
+| 17   | Fork & Join                               |
 
