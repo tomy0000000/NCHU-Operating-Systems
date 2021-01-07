@@ -2,10 +2,11 @@
 
 ## Homework
 
-| #    | Title               |
-| ---- | ------------------- |
-| 1    | Matrix with Process |
-| 2    | Matrix with Thread  |
+| #    | Title                            |
+| ---- | -------------------------------- |
+| 1    | Matrix with Process              |
+| 2    | Matrix with Thread               |
+| 3    | Producer Consumer with Semaphore |
 
 ## Laboratory Session
 
